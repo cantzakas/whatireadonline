@@ -8,12 +8,16 @@
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">July</td>
-    <td class="tg-0pky"><a href="https://medium.com/@cantzakas/what-i-read-online-6-12-july-2020-f05ddda74eb5?source=friends_link&sk=1fb8270b768fa8ef91690107129ab76e" target="_blank" rel="noopener noreferrer">6-12 July 2020</a></td>
+    <td class="tg-0pky">May</td>
+    <td class="tg-0pky"><a href="https://medium.com/@cantzakas/what-i-read-online-11-17-may-2020-73bd9a395d22?source=friends_link&sk=6bad45ccd735f96d1644955decfd4406" target="_blank" rel="noopener noreferrer">11-17 May 2020</a></td>
   </tr>
   <tr>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"><a href="https://medium.com/@cantzakas/what-i-read-online-13-19-july-2020-695f2c020c73?source=friends_link&sk=49e3b060e54d85bce379c42963d74717" target="_blank" rel="noopener noreferrer">13-19 July 2020</a></td>
+    <td class="tg-0pky"><a href="https://medium.com/@cantzakas/what-i-read-online-18-24-may-2020-703d0cea455c?source=friends_link&sk=0a384640e7b456c005e300ad78bfe560" target="_blank" rel="noopener noreferrer">18-24 May 2020</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><a href="https://medium.com/@cantzakas/what-i-read-online-25-31-may-2020-e3f48da286db?source=friends_link&sk=53ba3908faa7d577ad9bf3c3d7d64cc6" target="_blank" rel="noopener noreferrer">25-31 May 2020</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">June</td>
@@ -35,17 +39,14 @@
     <td class="tg-0pky"></td>
     <td class="tg-0pky"><a href="https://medium.com/@cantzakas/what-i-read-online-29-june-5-july-2020-1015f95a9fd4?source=friends_link&sk=eaaaef2f769c9d23e6a32106a4f9d10c" target="_blank" rel="noopener noreferrer">29 June - 5 July 2020</a></td>
   </tr>
+  
   <tr>
-    <td class="tg-0pky">May</td>
-    <td class="tg-0pky"><a href="https://medium.com/@cantzakas/what-i-read-online-11-17-may-2020-73bd9a395d22?source=friends_link&sk=6bad45ccd735f96d1644955decfd4406" target="_blank" rel="noopener noreferrer">11-17 May 2020</a></td>
+    <td class="tg-0pky">July</td>
+    <td class="tg-0pky"><a href="https://medium.com/@cantzakas/what-i-read-online-6-12-july-2020-f05ddda74eb5?source=friends_link&sk=1fb8270b768fa8ef91690107129ab76e" target="_blank" rel="noopener noreferrer">6-12 July 2020</a></td>
   </tr>
   <tr>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"><a href="https://medium.com/@cantzakas/what-i-read-online-18-24-may-2020-703d0cea455c?source=friends_link&sk=0a384640e7b456c005e300ad78bfe560" target="_blank" rel="noopener noreferrer">18-24 May 2020</a></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"><a href="https://medium.com/@cantzakas/what-i-read-online-25-31-may-2020-e3f48da286db?source=friends_link&sk=53ba3908faa7d577ad9bf3c3d7d64cc6" target="_blank" rel="noopener noreferrer">25-31 May 2020</a></td>
+    <td class="tg-0pky"><a href="https://medium.com/@cantzakas/what-i-read-online-13-19-july-2020-695f2c020c73?source=friends_link&sk=49e3b060e54d85bce379c42963d74717" target="_blank" rel="noopener noreferrer">13-19 July 2020</a></td>
   </tr>
 </tbody>
 </table>
