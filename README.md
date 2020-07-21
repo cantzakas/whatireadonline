@@ -2,6 +2,7 @@
 
 ### July 2020
 - [6-12 July 2020](https://medium.com/@cantzakas/what-i-read-online-6-12-july-2020-f05ddda74eb5?source=friends_link&sk=1fb8270b768fa8ef91690107129ab76e)
+- [13-19 July 2020](https://medium.com/@cantzakas/what-i-read-online-13-19-july-2020-695f2c020c73?source=friends_link&sk=49e3b060e54d85bce379c42963d74717)
 
 ### June 2020
 - [1-7 June 2020](https://medium.com/@cantzakas/what-i-read-online-1-7-june2020-8935bfbbac95?source=friends_link&sk=d7816ffb35c7f3bbb33665cc505f31b2)
